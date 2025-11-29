@@ -4,7 +4,7 @@ AI-powered video scene generation tool with support for multiple AI providers.
 
 ## Download
 
-Download the latest release from the [Releases](https://github.com/chenazmul/sceanbuildernew/releases) page.
+Download the latest release from the [Releases](https://github.com/chenazmul/scenebuildernew/releases) page.
 
 ## Features
 
